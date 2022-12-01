@@ -1,10 +1,10 @@
 # ProjectLanguages
 
-Python script that you didn't know that you need it 😉
+A Python script that will scan the root directory and all subdirectories for files and then print out the file extension and the percentage of files that have that extension.
 
 ## Description
 
-A Python script that will scan the root directory and all subdirectories for files and then print out the file extension and the percentage of files that have that extension.
+Python script that you didn't know that you need it 😉
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
+## Author
 
 [Marko Zakrajsek](https://github.com/DiCaver)
 
