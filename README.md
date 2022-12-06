@@ -4,34 +4,17 @@ A Python script that will scan the root directory and all subdirectories for fil
 
 ## Description
 
-Python script that you didn't know that you need it 😉
+Python script that you didn't know that you need it 😉 One of the best (for me!) features GitHub have been that small Language info. Was searching how to get this info from projects that I don't have in GitHub. This script is the result because I couldn't find anything simple.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Run and tested on Windows 11 with Python 3.9.6. It uses only os library (import os).
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Put ProjectLanguages.py into the root folder of your project (or whatever) and run it.
 
 ## Author
 
@@ -50,4 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-Code commented with help of [Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
+Made in [Visual Studio Code](https://code.visualstudio.com) with help of:
+* [Python extension...](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [Mintlify Doc Writer...](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
