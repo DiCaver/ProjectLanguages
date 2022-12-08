@@ -2,6 +2,8 @@
 
 A Python script that will scan the root directory and all subdirectories for files and then print out the file extension and the percentage of files that have that extension.
 
+![ProjectLanguages](https://zakrajsek.org/github/ProjectLanguages.png)
+
 ## Description
 
 Python script that you didn't know that you need it 😉 One of the best (for me!) features GitHub have been that small Language info. Was searching how to get this info from projects that I don't have in GitHub. This script is the result because I couldn't find anything simple.
